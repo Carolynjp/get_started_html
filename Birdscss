@@ -1,0 +1,62 @@
+<!doctype html>
+
+<html>
+
+<head>	 
+
+<style>
+
+h1, h2 {
+
+background-color: green;
+border: 5px solid black
+
+}
+
+.blue {
+
+Color: blue;
+font-size: 25px
+font-family: Garamond;
+
+}
+
+p.brown {
+
+Color: brown;
+font-size: 25px
+font-family: Garamond;
+
+}
+</style>
+
+</head>
+
+<body> 
+
+<h1> The Bird Website </h1>
+
+<p class="blue"> Welcome to the Bird Website. Everything about birds is here. </p>
+
+<h2> This is a section on Woodpeckers. </h2>
+
+<p class="brown"> Woodpeckers live in trees. </p>
+
+<blockquote class="blue">
+Birds are the direct descendents of dinosaurs.
+</blockquote>
+
+</body>
+
+</html>
+ 
+
+</style>
+
+</head>
+
+<body>
+
+
+
+
